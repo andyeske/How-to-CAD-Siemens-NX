@@ -48,7 +48,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Editing sketches and features after creating them.
 * Coloring parts and changing material properties.
 
-**Session Activity:** Using the tools learned on Session 1, we’ll design two objects, namely:
+**Session Activities:** Using the tools learned on Session 1, we’ll design two objects, namely:
 * A standard six-sided dice.
 * A Nokia [8210](https://upload.wikimedia.org/wikipedia/commons/d/d2/Nokia_8210.jpg) phone.
 
@@ -93,7 +93,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to use the spline tool.
 * Learning how to add a picture and sketch on it.
 
-**Session Activity:** Using the tools learned on Session 2, we’ll design two objects, namely:
+**Session Activities:** Using the tools learned on Session 2, we’ll design two objects, namely:
 * An MIT [Angry Beaver](https://intramurals.mit.edu/wp-content/uploads/sites/2/2019/05/intramurals-angry-beaver-1-1.png) banner.
 * A keychain of your favorite airline. 
 
@@ -146,7 +146,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to make use of the mirroring and circular patterns tools, both as a sketch and as a feature.
 * Learning how to create planes, at different angles.
 
-**Session Activity:** Using the tools learned on Session 3, we’ll design two objects, namely:
+**Session Activities:** Using the tools learned on Session 3, we’ll design two objects, namely:
 * A fidget spinner!
 * A Chinese [pagoda](https://i.pinimg.com/originals/30/f0/1d/30f01de48bde58a4acbf565a924a7d35.jpg).
 
@@ -189,7 +189,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to the through curves command.
 * Continuing to master previously explored tools, such as revolve, linear/circular patterns and plane creation.
 
-**Session Activity:** Using the tools learned on Session 4, we’ll design two objects, namely:
+**Session Activities:** Using the tools learned on Session 4, we’ll design two objects, namely:
 * A HEAD [Paddle Tennis](https://padelusa.com/cdn/shop/files/Head-Extreme_Motion_Padel_Racket_PadelUSA_store_1.webp?v=1711743078) racket.
 * A banana, in honor of the banana lounge (using various plane cuts, splines and lofts).
 
@@ -240,7 +240,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Revising some of the previously learned commands, including loft, revolve, sweep, plane creations, patterns, filleting, and material properties.
 * Learning how to employ the wrap command (for engravings).
 
-**Session Activity:** We’ll design two objects, namely:
+**Session Activities:** We’ll design two objects, namely:
 * A Diet Coke [222ml can](https://i5.walmartimages.com/asr/4e648786-e141-4a04-a612-2a4a42c0e423.49b830cbf38f440b0807099beb68fc07.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF) (with labels included).
 * An MIT [tech](https://sailing.mit.edu/future/g6/in_water.jpg) dinghy. 
 
@@ -273,7 +273,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to make an exploded view of an assembly.
 * Learning how to create an engineering drawing of a part and assembly (including exploded views).
 
-**Session Activity:** Using the tools learned on Session 5, we’ll design a set of objects, namely:
+**Session Activities:** Using the tools learned on Session 5, we’ll design a set of objects, namely:
 * A standard [2x4 LEGO brick](https://p.turbosquid.com/ts-thumb/I9/hYi8QZ/QyaXDmfH/lego_brick_2x4_earth_green_thumbnail_0000/jpg/1558617193/1920x1080/fit_q87/7a98b66fde1c475f97f5367029078a34496d722e/lego_brick_2x4_earth_green_thumbnail_0000.jpg) (as well as a 2x1, 2x1, 2x2, and 2x3 bricks; 2x3, 2x4, 2x6 and 2x8 plates; 2x2 and 2x3 slanted bricks).
 * A standard [2x4 LEGO plate](https://www.briquestore.fr/28179-home_default/lego-6286500-plate-2x4-nougat.jpg).
 * A simple [LEGO airplane](https://media.istockphoto.com/id/1352000895/vector/airplane-made-by-blocks-toy-building-block-bricks-for-children-vector-isometric-illustration.jpg?s=612x612&w=0&k=20&c=2yXIL9SeyGRjCLnDtrQr_nU5dfOrJCsVYyTq5LO8QW0=) assembly.
