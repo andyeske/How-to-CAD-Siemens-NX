@@ -1,6 +1,6 @@
 <a name="back_to_top"></a>
 # How to CAD Almost Anything: MIT IAP 2025
-Welcome to How to CAD Almost Anything! Siemens NX edition. In this repository, you'll find the workshop's slides, recordings and Siemens NX files.
+Welcome to How to CAD Almost Anything! NX edition. In this repository, you'll find the workshop's slides, recordings and Siemens NX files.
 
 ## Workshop Summary
 
